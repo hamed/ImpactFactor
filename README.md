@@ -1,5 +1,7 @@
 # Impact Factor
 
+[![DOI](https://zenodo.org/badge/21629/hamed/ImpactFactor.svg)](https://zenodo.org/badge/latestdoi/21629/hamed/ImpactFactor)
+
 I pulled the data of [A simple proposal for the publication of journal citation distributions](http://dx.doi.org/10.1101/062109) and produced probability density function using geometric bins. The result is:
 
 ![pdf](https://raw.githubusercontent.com/hamed/ImpactFactor/master/fig/pdf.png)
