@@ -1,4 +1,4 @@
-# Impact Factor
+# Impact Factor and the power-low tail of citations
 
 [![DOI](https://zenodo.org/badge/21629/hamed/ImpactFactor.svg)](https://zenodo.org/badge/latestdoi/21629/hamed/ImpactFactor)
 
